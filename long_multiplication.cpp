@@ -34,7 +34,7 @@ int main(){
                 counter = 0;
             }
 
-            cout << p << 'r' << '\n';
+            cout << p << '\n';
         }
 
 
